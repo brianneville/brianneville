@@ -5,4 +5,4 @@
 
 
 
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 50vh; left: 30vw; object-fit: cover; background-size: cover!important; width: 20vw; height: 20vw; animation: Toast--spinner infinite linear 30s, Overlay--motion-slideInRight infinite alternate 5s, Overlay--motion-slideDown infinite alternate 2s; background: url('https://github.com/brianneville/brianneville/assets/29639579/46b4904b-bf7b-4fbf-8d18-24d86a7ab668');]{x0000}$}!
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 50vh; right: 10vw; object-fit: cover; background-size: cover!important; width: 15vw; height: 15vw; animation: Toast--spinner infinite linear 30s, Overlay--motion-slideInRight infinite alternate 5s, Overlay--motion-slideDown infinite alternate 2s; background: url('https://github.com/brianneville/brianneville/assets/29639579/46b4904b-bf7b-4fbf-8d18-24d86a7ab668');]{x0000}$}!
