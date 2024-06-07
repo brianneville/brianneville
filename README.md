@@ -5,4 +5,7 @@
 
 
 
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 50vh; right: 10vw; object-fit: cover; background-size: cover!important; width: 15vw; height: 15vw; animation: Toast--spinner infinite linear 30s, Overlay--motion-slideInRight infinite alternate 5s, Overlay--motion-slideDown infinite alternate 2s; background: url('https://github.com/brianneville/brianneville/assets/29639579/46b4904b-bf7b-4fbf-8d18-24d86a7ab668');]{x0000}$}!
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 50vh; right: 10vw; object-fit: cover; background-size: cover!important; width: 5vw; height: 5vw; animation: Toast--spinner infinite linear 30s, Overlay--motion-slideInRight infinite alternate 5s, Overlay--motion-slideDown infinite alternate 2s; background: url('https://github.com/brianneville/brianneville/assets/29639579/46b4904b-bf7b-4fbf-8d18-24d86a7ab668');]{x0000}$}!
+
+
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 60vh; right: 15vw; object-fit: cover; background-size: cover!important; width: 15vw; height: 15vw; animation: Toast--spinner infinite linear 30s, Overlay--motion-slideInRight infinite alternate 5s, Overlay--motion-slideDown infinite alternate 2s; background: url('https://github.com/brianneville/brianneville/assets/29639579/c3b0a6ae-9bec-48f7-a23e-78c9963f8f09');]{x0000}$}!
